@@ -1,5 +1,5 @@
 # Project Info
-El proyecto esta realizado en la version de python 3.6.0, instala las dependecias requeridas usando el cli de **conda**
+El proyecto está realizado en la version de python 3.6.0, instala las dependecias requeridas usando el cli de **conda**
  - Pandas
  - matplotlib
  - seaborn
@@ -8,3 +8,5 @@ El proyecto esta realizado en la version de python 3.6.0, instala las dependecia
  - numpy
  - sklearn
  - prophet
+
+ Para realizar el pronóstico se uso **Prophet** una libreria que maneja series de tiempo.
